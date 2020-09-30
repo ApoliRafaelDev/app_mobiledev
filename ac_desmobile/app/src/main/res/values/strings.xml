@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoinTracker</string>
+    <string name="search_screen">Tela de Pesquisa</string>
+    <string name="list_screen">Tela de Listagem</string>
+    <string name="main_screen">Tela Inicial</string>
+    <string name="bem_vindo">Bem-vindo(a) \nao CoinTracker!</string>
+    <string name="faca_login">Faça login para continuar</string>
+    <string name="username">Nome de usuário</string>
+    <string name="senha">Senha</string>
+    <string name="botao_login">LOGIN</string>
+</resources>
